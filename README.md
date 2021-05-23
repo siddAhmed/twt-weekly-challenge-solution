@@ -10,18 +10,17 @@ No dependencies are required to run the solution as no imports were allowed for 
 > Reverse the order of the bits in a given integer.
 > Line 1: an integer T
 > Next T lines: each lines contains an int. After reversing bits (base 2) in the number print it in decimal (base 10)
-
-> Note: you are not allowed to use python builtin bin function nor any kind of string formatting f"{10:08b}" :upside_down: 
+> **Note:** you are not allowed to use python builtin bin function nor any kind of string formatting f"{10:08b}"
 
 ### Examples
 **Input**
 > 2
-8
-97
+> 8
+> 97
 
 **Output** 
 > 1
-67
+> 67
 
 #### Submissions and Grading 
 - code must be written in python
