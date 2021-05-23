@@ -15,11 +15,14 @@ No dependencies are required to run the solution as no imports were allowed for 
 ### Examples
 **Input**
 > 2
+> 
 > 8
+> 
 > 97
 
 **Output** 
 > 1
+> 
 > 67
 
 #### Submissions and Grading 
